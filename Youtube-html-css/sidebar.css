@@ -1,0 +1,76 @@
+
+.sidebar{
+
+    position: fixed;
+    top: 60px;
+    bottom:0px;
+    left: 10px;
+    width: 85px;
+    background-color: white;
+    margin-top: 50px;
+
+}
+
+.side-bar-link{
+    /* background-color: lightslategray; */
+    height: 72px;
+    width: 72px;
+    margin-bottom: 1px;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+
+.side-bar-link:hover{
+    background-color: rgb(235, 235, 235);
+}
+
+.home{
+    height: 28px;
+    margin-left:10px;
+}
+
+.explore{
+
+    height: 30px;
+    margin-left:10px ;
+}
+.explore:hover{
+    background-color: rgb(235, 235, 235);   
+}
+
+.subscription{
+    height: 30px;
+    margin-left:10px ;
+
+}
+
+.original{
+    height: 30px;
+    margin-left:10px ;
+
+}
+
+.music{
+    height: 30px;
+    margin-left:10px ;
+
+}
+
+
+.library{
+
+    height: 30px;
+    margin-left:10px ;
+}
+
+.span1{
+    display: flex;
+    justify-content: center;
+    padding-left: 6px;
+    font-family: roboco,Arial;
+    font-size: 10px;
+
+}
+
